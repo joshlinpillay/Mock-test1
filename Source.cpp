@@ -14,4 +14,10 @@ int main(int argc, char *argv[]) {
 	cout << "This is the first line of code" << endl;
 
 
+	 string name;
+	 cout << "Please enter your name: ";
+	 cin >> name;
+	 cout << "Hello, " << name << endl;
+
+
 	
